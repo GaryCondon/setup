@@ -34,7 +34,7 @@ defaults write com.apple.dock mru-spaces -bool false
 defaults write com.apple.dock wvous-bl-corner -int 5
 defaults write com.apple.dock wvous-bl-modifier -int 0
 
-# Require password immediately after sleep or screen saver begins
+# require password to wake from screen saver
 defaults write com.apple.screensaver askForPassword -int 1
 defaults write com.apple.screensaver askForPasswordDelay -int 0
 
