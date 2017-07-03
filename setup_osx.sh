@@ -14,6 +14,9 @@ defaults write com.apple.dock persistent-others -array-add '<dict><key>tile-data
 # automatically hide and reveal dock
 defaults write com.apple.dock autohide -bool true
 
+# remove autohide  delay
+defaults write com.apple.dock autohide-delay -float 0
+
 # only show running apps in dock
 # defaults write com.apple.dock static-only -bool TRUE
 
