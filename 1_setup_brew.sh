@@ -10,13 +10,6 @@ fi
 brew update
 brew doctor
 
-# Install python, including pip
-brew install python
-brew install python3
-
-# Install dropbox, using cask
-brew cask install --appdir="/Applications" dropbox
-
 # Upgrade all packages
 brew upgrade
 
