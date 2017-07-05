@@ -13,3 +13,5 @@ pip install sympy
 pip install nose # throws error ... Permission denied: '/usr/local/man'
 
 pip install jupyter
+
+pip install cookiecutter
