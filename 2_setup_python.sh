@@ -15,5 +15,6 @@ pip install nose # throws error ... Permission denied: '/usr/local/man'
 pip install jupyter
 
 pip install cookiecutter
+pip install tox
 
 pip install holidays
