@@ -2,7 +2,7 @@
 
 1) Install Xcode command line tools (req'd for git):
 
-    $ xcode-select --install
+	```$ xcode-select --install```
 
 2) Make a path & clone repo:
 
