@@ -6,12 +6,12 @@
 
 2) Make a path & clone repo:
 
-```
-    $ mkdir ~/Projects
-    $ cd ~/Projects
-    $ git clone https://github.com/GaryCondon/setup.git
-    $ cd setup
-```
+	```
+	$ mkdir ~/Projects
+	$ cd ~/Projects
+	$ git clone https://github.com/GaryCondon/setup.git
+	$ cd setup
+	```
 
 3) Run first three scripts:
 
