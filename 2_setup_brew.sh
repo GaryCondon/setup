@@ -7,8 +7,8 @@ fi
 brew update
 brew doctor
 
-# brew install mas # mac app store cli
-# mas install 497799835 # Xcode ... only works for latest version
+brew install mas # mac app store cli
+mas install 497799835 # Xcode ... only works for latest version
 
 brew cask install --appdir="/Applications" dropbox
 
